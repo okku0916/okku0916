@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there, I'm Naoki Okuda👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=okku0916)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=okku0916" />
