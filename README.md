@@ -2,7 +2,7 @@
 
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,cpp,java" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,cpp,java,html,js,nodejs,git,docker,vim" />
 <br>
 
 
